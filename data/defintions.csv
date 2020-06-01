@@ -1,0 +1,17 @@
+﻿id,category,abbrev,def
+1,business,BSF,Businesses (Financial and Insurance Services)
+2,business,BSO,Businesses (Other)
+3,business,BSR,Businesses (Retail/Merchant including Online Retail)
+4,business,EDU,Educational Institutions
+5,business,GOV,Government & Military
+6,business,MED,"Healthcare, Medical Providers and Medical Insurance Services"
+7,business,NGO,Nonprofits
+8,business,UNKN,Unknown
+9,breach,CARD,"Fraud Involving Debit and Credit Cards Not Via Hacking (skimming devices at point-of-service terminals, etc.)"
+10,breach,HACK,Hacked by an Outside Party or Infected by Malware
+11,breach,INSD,"Insider (employee, contractor or customer)"
+12,breach,PHYS,"Physical (paper documents that are lost, discarded or stolen)"
+13,breach,PORT,"Portable Device (lost, discarded or stolen laptop, PDA, smartphone, memory stick, CDs, hard drive, data tape, etc.)"
+14,breach,STAT,"Stationary Computer Loss (lost, inappropriately accessed, discarded or stolen computer or server not designed for mobility)"
+15,breach,DISC,"Unintended Disclosure Not Involving Hacking, Intentional Breach or Physical Loss (sensitive information posted publicly, mishandled or sent to the wrong party via publishing online, sending in an email, sending in a mailing or sending via fax) "
+16,breach,UNKN,Unknown (not enough information about breach to know how exactly the information was exposed)
