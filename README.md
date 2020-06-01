@@ -1,5 +1,6 @@
 # shinyapp-databreach-analysis
 
-## Utilized Public Clearinghouse Data Breach Chronology Data Set.
+## Utilized Privacy Rights Clearinghouse: Chronology of Data Breaches dataset.
 
-![ShinyDashboard View 1]https://github.com/danielkjw/shinyapp-databreach-analysis/images/shinyappview1.jpg)
+
+![ShinyDashboard View 1](https://github.com/danielkjw/shinyapp-databreach-analysis/images/shinyappview1.jpg)
