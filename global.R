@@ -2,6 +2,7 @@
 list.of.packages <- c("shiny","shinydashboard","RColorBrewer","shinythemes","dplyr","tidyverse","ggplot2",
                       "lubridate","shinywidgets","DT","verisr","highcharter","jsonlite","scales","ggpubr")
 
+# ---- To Do: Need to clean up library list ---- #####
 library(rjson)
 library(shiny)
 library(shinyjs)
@@ -9,18 +10,15 @@ library(readr)
 library(argonR)
 library(shinydashboard)
 library(shinydashboardPlus)
-
 library(shinyWidgets)
 library(argonDash)
 library(scales)
 library(dplyr)
 library(plotly)
-# library(tidyverse)
 library(lubridate)
 library(DT)
 library(data.table)
 library(jsonlite)
-library(plotly)
 library(ggpubr)
 library(ggthemes)
 library(highcharter)
